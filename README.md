@@ -97,9 +97,8 @@ if _name_ == '_main_':
 
 ## MobileRobot Movement Image:
 
-![robo](./img/robomaster.png)
+![robo](https://raw.githubusercontent.com/Girithickrohan/mobilerobot-openloopcontrol/main/Screenshot%202023-12-23%20170343.png)
 
-Insert image here
 
 
 <br/>
